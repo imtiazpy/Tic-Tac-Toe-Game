@@ -22,6 +22,9 @@ def display_board():
 
 # Main function to run the game
 def play_game():
+
+    #added some comment for github issue for practicing
+
     # setting up global variable
     global winner
 
